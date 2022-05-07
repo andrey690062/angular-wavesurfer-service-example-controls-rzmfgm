@@ -1,0 +1,20 @@
+p {
+  font-family: Lato;
+}
+.waveform {
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.btn-group {
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  display: block;
+  margin-top: -40px;
+  z-index: 100;
+  border: 8px solid #fff;
+  border-radius: 6px;
+  padding: 0px;
+}
